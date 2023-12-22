@@ -42,11 +42,11 @@ code {
   animation: loading 3s linear infinite;
 }
 .bar:nth-child(2) {
-  background-color: #3b78e7;
   animation: loading 3s linear 1s infinite;
+  background-color: #fdba2c;
 }
 .bar:nth-child(3) {
-  background-color: #fdba2c;
+  background-color: #da4733;
   animation: loading 3s linear 2s infinite;
 }
 @keyframes loading {
